@@ -1,6 +1,6 @@
 iOS
 PlayerPath?
-/Users/Alix/Documents/GitHub/VR-Design_Puzzler/Puzzler/build (iOS)
+/Users/Alix/Documents/GitHub/builds/Puzzler_w_Movement
 SceneListBegin?
 Assets/UdacityVR/Scenes/Main.unity
 SceneListEnd?
@@ -305,7 +305,6 @@ c31ff9acb65f7a15b5c6fd77c3314d83 Vuforia.UnityExtensions.dll:Vuforia.WireframeBe
 486cd95c82d8305219c352c06b776e1f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:Gvr.Internal.EmulatorClientSocket
 5c79f77e8bdc4433e7f19266d4a50278 Assembly-CSharp.dll:.GvrControllerInput
-410627587561a22f8dc9463a51784f46 Assembly-CSharp.dll:.GameLogic
 e241599c091a039de89f5e0a1c125183 Assembly-CSharp.dll:.GvrControllerReticleVisual
 182e416670915c50a548c38c642db0d8 Vuforia.UnityExtensions.dll:Vuforia.AnchorBehaviour
 f35860350df72508419d9f9fcd288594 Vuforia.UnityExtensions.dll:Vuforia.AnchorInputListenerBehaviour
