@@ -146,7 +146,6 @@
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrMathHelpers.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrUIHelpers.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
-    <Compile Include="Assets\UdacityVR\Scripts\gamelogic2.cs" />
     <Compile Include="Assets\UdacityVR\Scripts\LightUp.cs" />
     <Compile Include="Assets\UdacityVR\Scripts\Solutions\GameLogic_1.cs" />
     <Compile Include="Assets\UdacityVR\Scripts\Solutions\GameLogic_2.cs" />
