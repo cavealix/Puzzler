@@ -259,7 +259,6 @@ f806e1557c77bca314fc723de008fc91 Assembly-CSharp.dll:.GvrReticlePointer
 0a006f3734181ba8b26758f0866152c0 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 3ac8d5b7f4bcbee3d7bbb3a138961f8d Assembly-CSharp.dll:.GvrLaserVisual
 bda0a27cd4d9116a0b3ec51a3800512c Assembly-CSharp.dll:.GvrControllerVisual
-4719666fb08a84f05f99bb506a93085e Assembly-CSharp.dll:.GameLogic_2
 e04611b8715e6833d2bd7010fc6be10b Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
 2dc63230bccf87483fdffbcb0dff2559 Assembly-CSharp.dll:.GvrPointerGraphicRaycaster
 891e7f52d782b78aeb00f534553768ac Assembly-CSharp.dll:Gvr.Internal.EmulatorConfig

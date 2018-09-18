@@ -153,6 +153,7 @@
     <Compile Include="Assets\UdacityVR\Scripts\Solutions\GameLogic_4_Final.cs" />
     <Compile Include="Assets\UdacityVR\Scripts\Solutions\LightUp_1.cs" />
     <Compile Include="Assets\UdacityVR\Scripts\Solutions\LightUp_2_Final.cs" />
+    <None Include="Assets\LowPolyFantasyClouds\Shaders\CloudsShader.shader" />
     <None Include="Assets\GoogleVR\Shaders\GvrUIOverlayFont.shader" />
     <None Include="Assets\GoogleVR\Plugins\Android\proguard-gvr.txt" />
     <None Include="Assets\GoogleVR\Shaders\GvrAdditiveOverlay.shader" />
