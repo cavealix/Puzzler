@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\click.cs" />
     <Compile Include="Assets\GoogleVR\Legacy\Scripts\GvrController.cs" />
     <Compile Include="Assets\GoogleVR\Legacy\Scripts\GvrControllerVisualManager.cs" />
     <Compile Include="Assets\GoogleVR\Legacy\Scripts\GvrPointerManager.cs" />
