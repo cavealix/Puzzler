@@ -1,3 +1,6 @@
+# Watch Play Through
+https://youtu.be/H-rOKehJosw
+
 # Puzzler
 Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
 
